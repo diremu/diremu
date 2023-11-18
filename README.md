@@ -10,3 +10,9 @@ I am currently in an internship that creates exposure to web technologies such a
 - 👯 I’m looking to collaborate on an internship.  
 - ✨ I aspire to be a full-stack engineer and much more.  
 - 📫 How to reach me: cursed_line (Reddit), dbax_jr (discord), Diremu Adebanjo (LinkedIn)  
+
+### Skills
+I have become proficient in :
+- HTML
+- CSS
+- JavaScript (Vanilla or Plain) - Medium
