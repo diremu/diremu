@@ -1,9 +1,9 @@
 ## Description
 
-My name is Diremu Adebanjo and I am currently a student of computer science at Landmark University.   
+My name is Diremu Adebanjo. I am a Computer Science student at Landmark University.   
 
 ### Experience
-I am currently in an internship that creates exposure to web technologies such as React, Git, HTML, CSS, and JavaScript as well as cooperativeness with other people.  
+I have taken part in an internship that creates exposure to web technologies such as React, Git, HTML, CSS, and JavaScript. I also had the opportunity to learn how to collaborate with others.  
 
 - 🔭 I’m currently working on creating interactive web pages with my teammates  
 - 🌱 I’m currently learning React, React Router, and C++.  
@@ -12,7 +12,7 @@ I am currently in an internship that creates exposure to web technologies such a
 - 📫 How to reach me: cursed_line (Reddit), dbax_jr (discord), Diremu Adebanjo (LinkedIn)  
 
 ### Skills
-I have become proficient in :
+I have become proficient in the following:
 - HTML
 - CSS
 - JavaScript (Vanilla or Plain) - Medium
