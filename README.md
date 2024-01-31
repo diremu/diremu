@@ -16,3 +16,6 @@ I have become proficient in the following:
 - HTML
 - CSS
 - JavaScript (Vanilla or Plain) - Medium
+
+  ### My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diremu)](https://github.com/anuraghazra/github-readme-stats)
