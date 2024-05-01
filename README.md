@@ -5,20 +5,21 @@ My name is Diremu Adebanjo. I am a Computer Science student at Landmark Universi
 ### Experience
 I have taken part in an internship that creates exposure to web technologies such as React, Git, HTML, CSS, and JavaScript. I also had the opportunity to learn how to collaborate with others.  
 
-- 🔭 I’m currently working on creating interactive web pages with my teammates  
-- 🌱 I’m currently learning React, React Router, and C++.  
-- 👯 I’m looking to collaborate on an internship.  
-- ✨ I aspire to be a full-stack engineer and much more.  
+- 🔭 I’m currently delving into the Backend and its technologies  
+- 🌱 I’m currently learning Intermediate React, TypeScript and DSA 
+- 👯 I am currently undertaking an internship position.  However, I am still open to future opportunities
+- ✨ I am on my way to becoming a FullStack Engineer.  
 - 📫 How to reach me: cursed_line (Reddit), dbax_jr (discord), Diremu Adebanjo (LinkedIn)  
 
 ### Skills
 I have become proficient in the following:
 - HTML
 - CSS
-- JavaScript (Vanilla or Plain) - Medium
+- JavaScript (Vanilla) - Medium
+- React - Medium
 
-  <h3>My Works in the Form of Figures</h3>
+<h3>My Works in the Form of Figures</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diremu)](https://github.com/anuraghazra/github-readme-stats)
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diremu&" alt="Diremu's Streak Count" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=diremu&" alt="Diremu's Streak Count" />
 </p>
