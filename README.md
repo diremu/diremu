@@ -19,7 +19,6 @@ I have become proficient in the following:
 - React - Medium
 
 <h3>My Works in the Form of Figures</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diremu)](https://github.com/anuraghazra/github-readme-stats)
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=diremu&" alt="Diremu's Streak Count" />
 </p>
