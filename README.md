@@ -12,13 +12,14 @@ I have taken part in an internship that creates exposure to web technologies suc
 - 📫 How to reach me: cursed_line (Reddit), dbax_jr (discord), Diremu Adebanjo (LinkedIn)  
 
 ### Skills
-I have become proficient in the following:
+This are the hard skills i have learnt over time.
 - HTML
 - CSS
-- JavaScript (Vanilla) - Medium
-- React - Medium
-
-<h3>My Works in the Form of Figures</h3>
+- Javascript
+- SQL
+- Postgres
+  
+### My Statistics
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=diremu&" alt="Diremu's Streak Count" />
 </p>
